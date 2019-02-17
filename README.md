@@ -1,6 +1,11 @@
 # rabbit_que_message
 Rabbit MQ - Spring boot
 
-Produce Message - Queue using rest ( each 5 message)
+1. install Rabbit & erLang for server
+2. activate server management
 
-Consume Message - one by one using rest 
+
+- Produce Message - Queue -> using rest ( each 5 message)
+- Consume Message - Queue -> one by one using rest 
+
+-check on restController
